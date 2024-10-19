@@ -2,7 +2,7 @@
 
 Este é um simulador de piano virtual desenvolvido com HTML, CSS e JavaScript. O projeto permite tocar notas musicais clicando nas teclas do piano ou usando o teclado físico do seu computador. Inclui controles de volume e a opção de exibir ou ocultar as teclas.
 
-**Acesse o repositório do seu projeto** no GitHub: [virtual-piano](https://github.com/Nivaldo-Nilngn/virtual-piano).
+**Acesse o repositório do seu projeto** no GitHub: [virtual-piano](https://nivaldo-nilngn.github.io/virtual-piano/).
 
 ## Funcionalidades
 
